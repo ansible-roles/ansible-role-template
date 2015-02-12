@@ -23,3 +23,10 @@ Usage
 roles:
   - igor_mukhin.___
 ```
+
+Testing
+-------
+
+```bash
+sudo ansible-playbook tests/playbook.yml -i tests/hosts -vvvv
+```
