@@ -3,9 +3,9 @@
 dependencies: []
 
 galaxy_info:
-  author: igor_mukhin
+  author: igor.mukhin@gmail.com
   description:
-  license: "MIT"
+  license: MIT
   min_ansible_version: 1.4
   platforms:
   - name: Ubuntu
