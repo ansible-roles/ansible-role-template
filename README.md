@@ -6,7 +6,7 @@ Ansible role for ___ feature on Debian/Ubuntu.
 Installation
 ------------
 ```bash
-ansible-galaxy install igor_mukhin.___,v0.0._
+ansible-galaxy install igor_mukhin.___
 ```
 
 Variables
